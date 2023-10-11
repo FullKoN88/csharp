@@ -11,7 +11,7 @@ int number2 = Convert.ToInt32(Console.ReadLine());
 
 if (number1 == number2 * number2)
 {
-System.Console.WriteLine("Да");    
+System.Console.WriteLine("Число кратно");    
 }
 else 
 {
