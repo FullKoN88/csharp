@@ -1,0 +1,15 @@
+C:\Users\пека\Desktop\C#\task13_\bin\Debug\net6.0\task13_.exe
+C:\Users\пека\Desktop\C#\task13_\bin\Debug\net6.0\task13_.deps.json
+C:\Users\пека\Desktop\C#\task13_\bin\Debug\net6.0\task13_.runtimeconfig.json
+C:\Users\пека\Desktop\C#\task13_\bin\Debug\net6.0\task13_.dll
+C:\Users\пека\Desktop\C#\task13_\bin\Debug\net6.0\task13_.pdb
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\task13_.csproj.AssemblyReference.cache
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\task13_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\task13_.AssemblyInfoInputs.cache
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\task13_.AssemblyInfo.cs
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\task13_.csproj.CoreCompileInputs.cache
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\task13_.dll
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\refint\task13_.dll
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\task13_.pdb
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\task13_.genruntimeconfig.cache
+C:\Users\пека\Desktop\C#\task13_\obj\Debug\net6.0\ref\task13_.dll

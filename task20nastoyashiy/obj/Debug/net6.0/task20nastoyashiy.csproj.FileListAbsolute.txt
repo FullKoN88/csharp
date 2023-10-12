@@ -1,0 +1,15 @@
+C:\Users\пека\Desktop\C#\task20nastoyashiy\bin\Debug\net6.0\task20nastoyashiy.exe
+C:\Users\пека\Desktop\C#\task20nastoyashiy\bin\Debug\net6.0\task20nastoyashiy.deps.json
+C:\Users\пека\Desktop\C#\task20nastoyashiy\bin\Debug\net6.0\task20nastoyashiy.runtimeconfig.json
+C:\Users\пека\Desktop\C#\task20nastoyashiy\bin\Debug\net6.0\task20nastoyashiy.dll
+C:\Users\пека\Desktop\C#\task20nastoyashiy\bin\Debug\net6.0\task20nastoyashiy.pdb
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\task20nastoyashiy.csproj.AssemblyReference.cache
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\task20nastoyashiy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\task20nastoyashiy.AssemblyInfoInputs.cache
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\task20nastoyashiy.AssemblyInfo.cs
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\task20nastoyashiy.csproj.CoreCompileInputs.cache
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\task20nastoyashiy.dll
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\refint\task20nastoyashiy.dll
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\task20nastoyashiy.pdb
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\task20nastoyashiy.genruntimeconfig.cache
+C:\Users\пека\Desktop\C#\task20nastoyashiy\obj\Debug\net6.0\ref\task20nastoyashiy.dll
