@@ -1,0 +1,15 @@
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\bin\Debug\net6.0\task10_Trahznachnoe.exe
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\bin\Debug\net6.0\task10_Trahznachnoe.deps.json
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\bin\Debug\net6.0\task10_Trahznachnoe.runtimeconfig.json
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\bin\Debug\net6.0\task10_Trahznachnoe.dll
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\bin\Debug\net6.0\task10_Trahznachnoe.pdb
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\task10_Trahznachnoe.csproj.AssemblyReference.cache
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\task10_Trahznachnoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\task10_Trahznachnoe.AssemblyInfoInputs.cache
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\task10_Trahznachnoe.AssemblyInfo.cs
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\task10_Trahznachnoe.csproj.CoreCompileInputs.cache
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\task10_Trahznachnoe.dll
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\refint\task10_Trahznachnoe.dll
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\task10_Trahznachnoe.pdb
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\task10_Trahznachnoe.genruntimeconfig.cache
+C:\Users\пека\Desktop\C#\task10_Trahznachnoe\obj\Debug\net6.0\ref\task10_Trahznachnoe.dll
