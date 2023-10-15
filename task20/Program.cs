@@ -1,13 +1,20 @@
-﻿/* Напишите программу, которая принимает на вход число (N) и выдаёт таблицу квадратов чисел от 1 до N.
+﻿/* 
+Напишите программу, которая принимает на вход координаты двух точек и находит
+расстояние между ними в 2D пространстве.
 
-5 -> 1, 4, 9, 16, 25.
-2 -> 1,4
+A (3,6); B (2,1) -> 5,09
+A (7,-5); B (1,-1) -> 7,21
 */
+Console.Clear();
+System.Console.WriteLine("Ведите координаты точки A (x, y): ");
+int userAx = Convert.ToInt32(Console.ReadLine());
+int userAy = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("Ведите координаты точки B (x, y): ");
+int userBx = Convert.ToInt32(Console.ReadLine());
+int userBy = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите число: "); // Убирая Line убирается абзац и все выводится в линию
-int userNumber = int.Parse(Console.ReadLine());
-for (int i = 1; i <= userNumber; i++)
-{
-    System.Console.WriteLine($"{i} * {i} = {Math.Pow(i, 2)}");
-}
-
+//int squareX = (userBx - userAx) * (userBx - userAx);
+double squareX = Math.Pow(userBx - userAx, 2);// Math.Pow(a, 3) функция возведения в степень,(что возводим в степень, в какую степень)
+double squareY = Math.Pow(userBy - userAy, 2);
+double rootXY = Math.Sqrt(squareX + squareY);//Math.Sqrt() находит квадратный корень
+System.Console.WriteLine(Math.Round(rootXY, 2));//Math.Round(a, 2) округление чисел после запятой(число, сколько чисел после запятой оставить)
