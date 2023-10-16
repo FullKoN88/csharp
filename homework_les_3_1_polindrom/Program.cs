@@ -6,6 +6,11 @@
 12821 -> True
 234322 -> Число не пятизное
 */
+/*
+int n = Convert.ToInt32(Console.ReadLine());
+int n1 = n / 10000;
+int n2 =
+*/
 
 System.Console.Write("Введите число: ");
 

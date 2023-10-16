@@ -1,28 +1,23 @@
-﻿// // See https://aka.ms/new-console-template for more information24. Напишите программу, которая принимает на вход число (А) и выдаёт сумму чисел от 1 до А.
-// 7 -> 28
-// 4 -> 10
-// 8 -> 36
-/*
-Взять число, найти его квадрат и вычислить корень квадратный из получившегося числа.
+﻿/*
+24. Напишите программу, которая принимает на вход число (А) и выдаёт сумму чисел от 1 до А.
+7 -> 28
+4 -> 10
+8 -> 36
 */
 
-int userA = 4;
+System.Console.WriteLine("Введите число A: ");
 
-double Num(int a)
+int userA = Convert.ToInt32(Console.ReadLine());
+int Num(int a)
 {
-    double result = Math.Pow(a, 2);
-    System.Console.WriteLine(result);
+    int result = 0;
+
+    for (int i = 1; i <= a; i++)
+    {
+        result = result + i;
+    }
     return result;
 }
+int userResult = Num(userA);
 
-// void Num1(int a)
-// {
-//     double result = Math.Pow(a, 2);
-//     System.Console.WriteLine(result);
-// }
-// System.Console.WriteLine(Num(userA));
-// double userresult = Num(userA);
-// double root = Math.Sqrt(Num1(userA));
-// System.Console.WriteLine(userresult);
-// System.Console.WriteLine(root);
-// Num1(userA);
+System.Console.WriteLine($"{userA} -> {userResult}");
