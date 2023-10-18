@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\пека\\Desktop\\C#\\task20\\task20.csproj": {}
+    "C:\\Users\\пека\\Desktop\\C#\\task22_выдаёт таблицу квадратов\\task20.csproj": {}
   },
   "projects": {
-    "C:\\Users\\пека\\Desktop\\C#\\task20\\task20.csproj": {
+    "C:\\Users\\пека\\Desktop\\C#\\task22_выдаёт таблицу квадратов\\task20.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пека\\Desktop\\C#\\task20\\task20.csproj",
+        "projectUniqueName": "C:\\Users\\пека\\Desktop\\C#\\task22_выдаёт таблицу квадратов\\task20.csproj",
         "projectName": "task20",
-        "projectPath": "C:\\Users\\пека\\Desktop\\C#\\task20\\task20.csproj",
+        "projectPath": "C:\\Users\\пека\\Desktop\\C#\\task22_выдаёт таблицу квадратов\\task20.csproj",
         "packagesPath": "C:\\Users\\пека\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пека\\Desktop\\C#\\task20\\obj\\",
+        "outputPath": "C:\\Users\\пека\\Desktop\\C#\\task22_выдаёт таблицу квадратов\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\пека\\AppData\\Roaming\\NuGet\\NuGet.Config"

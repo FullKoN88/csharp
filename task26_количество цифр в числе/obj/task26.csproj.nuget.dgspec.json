@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\пека\\Desktop\\C#\\task26\\task26.csproj": {}
+    "C:\\Users\\пека\\Desktop\\C#\\task26_количество цифр в числе\\task26.csproj": {}
   },
   "projects": {
-    "C:\\Users\\пека\\Desktop\\C#\\task26\\task26.csproj": {
+    "C:\\Users\\пека\\Desktop\\C#\\task26_количество цифр в числе\\task26.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пека\\Desktop\\C#\\task26\\task26.csproj",
+        "projectUniqueName": "C:\\Users\\пека\\Desktop\\C#\\task26_количество цифр в числе\\task26.csproj",
         "projectName": "task26",
-        "projectPath": "C:\\Users\\пека\\Desktop\\C#\\task26\\task26.csproj",
+        "projectPath": "C:\\Users\\пека\\Desktop\\C#\\task26_количество цифр в числе\\task26.csproj",
         "packagesPath": "C:\\Users\\пека\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пека\\Desktop\\C#\\task26\\obj\\",
+        "outputPath": "C:\\Users\\пека\\Desktop\\C#\\task26_количество цифр в числе\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\пека\\AppData\\Roaming\\NuGet\\NuGet.Config"

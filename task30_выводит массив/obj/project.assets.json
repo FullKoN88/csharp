@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\пека\\Desktop\\C#\\task30\\task30.csproj",
+      "projectUniqueName": "C:\\Users\\пека\\Desktop\\C#\\task30_выводит массив\\task30.csproj",
       "projectName": "task30",
-      "projectPath": "C:\\Users\\пека\\Desktop\\C#\\task30\\task30.csproj",
+      "projectPath": "C:\\Users\\пека\\Desktop\\C#\\task30_выводит массив\\task30.csproj",
       "packagesPath": "C:\\Users\\пека\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\пека\\Desktop\\C#\\task30\\obj\\",
+      "outputPath": "C:\\Users\\пека\\Desktop\\C#\\task30_выводит массив\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\пека\\AppData\\Roaming\\NuGet\\NuGet.Config"

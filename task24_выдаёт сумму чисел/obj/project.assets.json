@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\пека\\Desktop\\C#\\task24\\task24.csproj",
+      "projectUniqueName": "C:\\Users\\пека\\Desktop\\C#\\task24_выдаёт сумму чисел\\task24.csproj",
       "projectName": "task24",
-      "projectPath": "C:\\Users\\пека\\Desktop\\C#\\task24\\task24.csproj",
+      "projectPath": "C:\\Users\\пека\\Desktop\\C#\\task24_выдаёт сумму чисел\\task24.csproj",
       "packagesPath": "C:\\Users\\пека\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\пека\\Desktop\\C#\\task24\\obj\\",
+      "outputPath": "C:\\Users\\пека\\Desktop\\C#\\task24_выдаёт сумму чисел\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\пека\\AppData\\Roaming\\NuGet\\NuGet.Config"
