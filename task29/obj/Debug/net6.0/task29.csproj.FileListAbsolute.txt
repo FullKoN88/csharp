@@ -1,0 +1,5 @@
+C:\Users\пека\Desktop\C#\task29\obj\Debug\net6.0\task29.csproj.AssemblyReference.cache
+C:\Users\пека\Desktop\C#\task29\obj\Debug\net6.0\task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пека\Desktop\C#\task29\obj\Debug\net6.0\task29.AssemblyInfoInputs.cache
+C:\Users\пека\Desktop\C#\task29\obj\Debug\net6.0\task29.AssemblyInfo.cs
+C:\Users\пека\Desktop\C#\task29\obj\Debug\net6.0\task29.csproj.CoreCompileInputs.cache

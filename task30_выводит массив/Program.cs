@@ -6,7 +6,7 @@ using System;
 Console.Clear();
 
 
-int[] GetRandArray(int size)
+int[] GetArray(int size)
 {
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
@@ -24,7 +24,3 @@ void PrintArray(int[] arr)
     }
 }
 
-System.Console.WriteLine("Задай размер массива: ");
-int userSize = Convert.ToInt32(Console.ReadLine());
-int[] userArray = GetRandArray(userSize);
-PrintArray(userArray);
