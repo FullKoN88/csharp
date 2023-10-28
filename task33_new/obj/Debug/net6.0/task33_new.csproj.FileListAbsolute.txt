@@ -1,0 +1,15 @@
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\task33_new.csproj.AssemblyReference.cache
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\task33_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\task33_new.AssemblyInfoInputs.cache
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\task33_new.AssemblyInfo.cs
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\task33_new.csproj.CoreCompileInputs.cache
+C:\Users\пека\Desktop\C#\task33_new\bin\Debug\net6.0\task33_new.exe
+C:\Users\пека\Desktop\C#\task33_new\bin\Debug\net6.0\task33_new.deps.json
+C:\Users\пека\Desktop\C#\task33_new\bin\Debug\net6.0\task33_new.runtimeconfig.json
+C:\Users\пека\Desktop\C#\task33_new\bin\Debug\net6.0\task33_new.dll
+C:\Users\пека\Desktop\C#\task33_new\bin\Debug\net6.0\task33_new.pdb
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\task33_new.dll
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\refint\task33_new.dll
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\task33_new.pdb
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\task33_new.genruntimeconfig.cache
+C:\Users\пека\Desktop\C#\task33_new\obj\Debug\net6.0\ref\task33_new.dll
